@@ -33,7 +33,7 @@ Ejemplo: *git clone https://github.com/usuario/repo.git*
 
 ## Motivación
 
-Hasta, prácticamente, los últimos minutos de la entrega de evaluación, querer aprender a desarrollar este sistema de gestión de forma correcta, me hace darme cuenta de cómo se fomenta no solo el crecimiento profesional sino también el personal.
+Hasta, prácticamente, los últimos minutos de la entrega de evaluación, querer aprender a desarrollar este sistema de gestión de forma "perfecta", me hace darme cuenta de cómo se fomenta no solo el crecimiento profesional sino también el personal.
 
 ¡Qué nervios supone este aprendizaje! 
 
