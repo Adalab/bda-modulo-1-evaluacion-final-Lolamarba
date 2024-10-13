@@ -30,3 +30,10 @@ Ventas Totales: Variable que registra el total de ventas realizadas en la tienda
 
 A través de la clonación de nuestro repositorio.
 Ejemplo: *git clone https://github.com/usuario/repo.git*
+
+## Motivación
+
+Al aprender a desarrollar esta sistema de gestión, se fomenta no solo el crecimiento personal y profesional, sino también *la creación de un entorno más organizado y eficiente* en la administración de recursos.
+
+
+
