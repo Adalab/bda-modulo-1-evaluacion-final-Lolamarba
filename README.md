@@ -12,19 +12,19 @@ Ventas Totales: Variable que registra el total de ventas realizadas en la tienda
 
 # ¿Qué funcionalidades presenta? 
 
-*Agregar producto*: Añade productos al inventario o actualiza su cantidad.
+*Agregar producto*:  Añade productos al inventario o actualiza su cantidad.
 
-*Ver inventario*: Muestra todos los productos con sus detalles (nombre, precio y cantidad).
+*Ver inventario*:  Muestra todos los productos con sus detalles (nombre, precio y cantidad).
 
-*Buscar producto*: Busca un producto por su nombre.
+*Buscar producto*:  Busca un producto por su nombre.
 
-*Actualizar stock*: Modifica la cantidad disponible de un producto.
+*Actualizar stock*:  Modifica la cantidad disponible de un producto.
 
-*Eliminar producto*: Borra un producto del inventario.
+*Eliminar producto*:  Borra un producto del inventario.
 
-*Calcular valor del inventario*: Suma el valor total de todos los productos disponibles.
+*Calcular valor del inventario*:  Suma el valor total de todos los productos disponibles.
 
-*Realizar compra*: Permite a un cliente comprar productos, actualizando el inventario y calculando el costo total.
+*Realizar compra*:  Permite a un cliente comprar productos, actualizando el inventario y calculando el costo total.
 
 # ¿Cómo debemos ejecutarlo?
 
