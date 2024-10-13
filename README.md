@@ -33,7 +33,9 @@ Ejemplo: *git clone https://github.com/usuario/repo.git*
 
 ## Motivación
 
-Al aprender a desarrollar esta sistema de gestión, se fomenta no solo el crecimiento personal y profesional, sino también *la creación de un entorno más organizado y eficiente* en la administración de recursos.
+Hasta, prácticamente, los últimos minutos de la entrega de evaluación, querer aprender a desarrollar este sistema de gestión de forma correcta, me hace darme cuenta de cómo se fomenta no solo el crecimiento profesional sino también el personal.
+
+¡Qué nervios supone este aprendizaje! 
 
 
 
